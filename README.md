@@ -2,9 +2,9 @@
 Django Rest API sample
 
 # commands
-virtualenv -p python3.6 env
-source env/bin/activate
+virtualenv -p python3.6 env \n
+source env/bin/activate \n
 
 # migrations
-python manage.py migrate
-python manage.py runserver
+python manage.py migrate \n
+python manage.py runserver \n
